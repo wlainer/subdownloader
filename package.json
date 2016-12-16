@@ -1,0 +1,16 @@
+{
+  "name": "subtitles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "subtitle": "./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "opensubtitles-api": "^3.3.0"
+  }
+}
